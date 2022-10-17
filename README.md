@@ -3,11 +3,12 @@ Scene: Deserted Island
 Type of objects: Mostly natural foliage and rocks
 Inspiration: After looking through some assets i had gotten long ago i found some nice low poly terrain. in particular, an island that i thought would look good.
 Main Character: Low Poly Warrior dude
+- https://assetstore.unity.com/packages/p/low-poly-fantasy-warrior-127775 
+
+Skybox:
+- https://assetstore.unity.com/packages/2d/textures-materials/sky/customizable-skybox-174576
 
 Objects:
-
-Low Poly Warrior 
-- https://assetstore.unity.com/packages/p/low-poly-fantasy-warrior-127775 
 
 Rocks:
 - Fireplace_02
